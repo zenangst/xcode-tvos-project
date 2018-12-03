@@ -324,7 +324,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"ruby ${SRCROOT}/Source/unused.rb xcode\n";
+			shellScript = "ruby ${SRCROOT}/Source/unused.rb xcode\n";
 		};
 		D57091831E23B83C00C9347B /* R.swift */ = {
 			isa = PBXShellScriptBuildPhase;
