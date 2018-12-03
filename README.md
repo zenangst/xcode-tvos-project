@@ -1,6 +1,6 @@
-# Xcode iOS project template
+# Xcode tvOS project template
 
-**xcode-ios-project** is a template to generate Swift-based iOS projects from the
+**xcode-tvOS-project** is a template to generate Swift-based tvOS projects from the
 command line.
 
 ## Features
@@ -24,7 +24,7 @@ command line.
 
 ## Usage
 1. Create new private repository on [GitHub](https://github.com/organizations/itchdesign/repositories/new)
-1. `git clone git@github.com:itchdesign/xcode-ios-project.git NewProjectName`
+1. `git clone git@github.com:itchdesign/xcode-tvOS-project.git NewProjectName`
 2. `cd NewProjectName`
 3. `ruby ./init.rb`
 4. Enter the requested info.
@@ -39,4 +39,4 @@ Itch Design AS, hello@itchdesign.no
 
 ## License
 
-**Xcode iOS project** is available under the MIT license. See the [LICENSE](https://github.com/itchdesign/xcode-ios-project/blob/master/LICENSE.md) file for more info.
+**Xcode tvOS project** is available under the MIT license. See the [LICENSE](https://github.com/itchdesign/xcode-tvos-project/blob/master/LICENSE.md) file for more info.
